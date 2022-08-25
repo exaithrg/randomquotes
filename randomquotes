@@ -3,7 +3,7 @@
  n=$((( RANDOM % 112 ) + 1))
 
 case $n in
-    1) echo "You can totally do this!";;
+    1) echo "Go!";;
     2) echo "Don't tell people your plans. Show them your results.";;
     3) echo "No pressure, no diamonds.";;
     4) echo "We can do anything we want to if we stick to it long enough.";;
@@ -41,7 +41,7 @@ case $n in
     36) echo "Mastering others is strength. Mastering yourself is true power.";;
     37) echo "The true success is the person who invented himself.";;
     38) echo "Fall seven times, stand up eight.";;
-    39) echo "Go!";;
+    39) echo "You can totally do this!";;
     40) echo "Never stop dreaming.";;
     41) echo "Now is all you have.";;
     42) echo "Pain is temporary. Quitting lasts forever.";;
