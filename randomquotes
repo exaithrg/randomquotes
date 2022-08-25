@@ -114,6 +114,6 @@ case $n in
     109) echo "Quietly endure, silently suffer and patiently wait.";;
     110) echo "Life’s struggles are necessary for growth.";;
     111) echo "Our greatest glory is not in never falling, but in rising every time we fall.";;
-    *) echo "Happy Everyday!"
+    *) echo "Happy Day!"
 esac
 
