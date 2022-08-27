@@ -81,7 +81,7 @@ case $n in
     76) echo "Pain is inevitable. Suffering is optional.";;
     77) echo "Never regret anything that made you smile.";;
     78) echo "Aim for the moon. If you miss, you may hit a star.";;
-    79) echo "It always seems impossible until it’s done.";;
+    79) echo "Ninety-nine percent of the failures come from people who have the habit of making excuses.";;
     80) echo "In the middle of difficulty lies opportunity.";;
     81) echo "He that can have patience can have what he will.";;
     82) echo "Success is not final, failure is not fatal: it is the courage to continue that counts.";;
@@ -110,7 +110,7 @@ case $n in
     105) echo "Just one small positive thought in the morning can change your whole day.";;
     106) echo "Procrastination makes easy things hard and hard things harder.";;
     107) echo "Motivation is what gets you started. Habit is what keeps you going.";;
-    108) echo "Ninety-nine percent of the failures come from people who have the habit of making excuses.";;
+    108) echo "It always seems impossible until it’s done.";;
     109) echo "Quietly endure, silently suffer and patiently wait.";;
     110) echo "Life’s struggles are necessary for growth.";;
     111) echo "Our greatest glory is not in never falling, but in rising every time we fall.";;
