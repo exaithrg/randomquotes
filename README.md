@@ -6,7 +6,7 @@ echo a random quote every time you start the terminal
 ## How to use
 `cp ./randomquotes ~/.randomquotes`
 
-Add `source ~/.randomquotes` in the end of ~/.bashrc 
+Add `source ~/.randomquotes` to the end of ~/.bashrc 
 
 ![image-20220826133323181](README.assets/image-20220826133323181.png)
 
