@@ -1,4 +1,7 @@
 # randomquotes
+
+**IMPORTANT NOTICE: This repository is out of maintenance, please check [dotfiles](https://github.com/njughr/dotfiles) for the latest updates.**
+
 echo a random quote every time you start the terminal
 
 ![image-20220826133348725](README.assets/image-20220826133348725.png)
